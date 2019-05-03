@@ -1,1 +1,173 @@
-# advertbot.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Advert</title>
+    <link rel="stylesheet" type="text/css" href="main.css">
+
+</head>
+<body>
+    <ul>
+        <li><a class="margin" href="#FAQ">FAQ</a></li>
+        <li><a href="#Support">Support</a></li>
+        <li><a href="#Commands">Commands</a></li>
+        <li><a href="#Home">Home</a></li>
+        <li class="betabot">BetaBot</li>
+      </ul>
+      <div class="div1">BetaBot</div>
+      <div class="div2"></div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+      <div>Hello</div>
+
+</body>
+</html>
