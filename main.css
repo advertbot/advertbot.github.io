@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #23272A;
+    background-color: #99AAB5;
   }
   
   ul {
@@ -13,7 +13,7 @@ body {
     /* border-bottom: 5px solid #99AAB5; */
 }
 
-  @media screen and (min-width: 2000px) {
+  @media screen and (min-width: 1000px) {
       ul {
         position: -webkit-sticky; /* Safari */
         position: sticky;
@@ -21,7 +21,7 @@ body {
       }
   }
   
-  @media screen and (min-width: 1000px) {
+  @media screen and (min-width: 500px) {
   li {
     float: right;
     text-align: center;
@@ -41,7 +41,7 @@ body {
     background-color: rgb(153, 170, 181, 0.5);
   }
   
-  @media screen and (min-width: 1000px) {
+  @media screen and (min-width: 500px) {
   .betabot {
     background-color: #7289DA;
     display: block;
@@ -53,12 +53,9 @@ body {
   }
 }
 
-@media screen and (min-width: 2000px) {
-.betabot {
-margin-left: 30px;
-}}
 
-  @media screen and (max-width: 999px) {
+
+  @media screen and (max-width: 500px) {
       .betabot {
           background-color: #7289DA;
           display: block;
@@ -66,28 +63,21 @@ margin-left: 30px;
           text-align: center;
           padding: 14px 16px;
           text-decoration: none;
+          border-bottom: 3px solid #23272A;
       }
   }
   
-  @media screen and (min-width: 2000px) {
+  @media screen and (min-width: 500px) {
   .margin {
     margin-right: 30px;
   }
 }
 
-  .div1 {
-    background-color: #99AAB5;
+  .header {
+    background-color: #7289DA;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-shadow: 3px 2px 4px black;
     font-size: 50px;
   }
-  @media screen and (min-width: 2000px) {
-  .stickybar {
-    border-bottom: 5px solid #99AAB5;
-    position: -webkit-sticky; /* Safari */
-    position: sticky;
-    top: 46px;
-  }
-}
