@@ -21,7 +21,7 @@ body {
       }
   }
   
-  @media screen and (min-width: 500px) {
+  @media screen and (min-width: 1000px) {
   li {
     float: right;
     text-align: center;
@@ -41,7 +41,7 @@ body {
     background-color: rgb(153, 170, 181, 0.5);
   }
   
-  @media screen and (min-width: 500px) {
+  @media screen and (min-width: 1000px) {
   .betabot {
     background-color: #7289DA;
     display: block;
@@ -58,7 +58,7 @@ body {
 margin-left: 30px;
 }}
 
-  @media screen and (max-width: 499px) {
+  @media screen and (max-width: 999px) {
       .betabot {
           background-color: #7289DA;
           display: block;
