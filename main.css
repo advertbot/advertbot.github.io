@@ -80,7 +80,7 @@ body {
     font-size: 50px;
   }
   @media screen and (min-width: 1000px) {
-  .div2 {
+  .stickybar {
     border-bottom: 5px solid #99AAB5;
     position: -webkit-sticky; /* Safari */
     position: sticky;
