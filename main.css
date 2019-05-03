@@ -10,7 +10,8 @@ body {
     padding: 0;
     overflow: hidden;
     background-color: #23272A;
-  }
+    /* border-bottom: 5px solid #99AAB5; */
+}
 
   @media screen and (min-width: 1000px) {
       ul {
@@ -78,3 +79,11 @@ body {
     text-shadow: 3px 2px 4px black;
     font-size: 50px;
   }
+  @media screen and (min-width: 1000px) {
+  .div2 {
+    border-bottom: 5px solid #99AAB5;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 46px;
+  }
+}
