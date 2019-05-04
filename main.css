@@ -1,7 +1,8 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #23272A;
+    background-color: #0e688c;
+    font-family: Arial, Helvetica, sans-serif;
   }
   
   ul {
@@ -9,8 +10,8 @@ body {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #99AAB5;
-    /* border-bottom: 5px solid #99AAB5; */
+    background-color: #0e688c;
+    border-bottom: 3px solid white;
 }
 
   @media screen and (min-width: 1000px) {
@@ -38,12 +39,12 @@ body {
   }
   
   li a:hover {
-    background-color: rgb(153, 170, 181, 0.5);
+    background-color: rgba(0, 0, 0, 0.5);
   }
   
   @media screen and (min-width: 500px) {
   .betabot {
-    background-color: #7289DA;
+    background-color: #1fb5f0;
     display: block;
     color: white;
     text-align: center;
@@ -57,13 +58,12 @@ body {
 
   @media screen and (max-width: 500px) {
       .betabot {
-          background-color: #7289DA;
+          background-color: #1fb5f0;
           display: block;
           color: white;
           text-align: center;
           padding: 14px 16px;
           text-decoration: none;
-          border-bottom: 3px solid #23272A;
       }
   }
   
@@ -72,12 +72,28 @@ body {
     margin-right: 30px;
   }
 }
-
-  .header {
-    background-color: #7289DA;
+  .body{
+    text-align: center;
+    color: white;
+  }
+  @media screen and (max-width: 499px) {
+    .betabot {
+    border-bottom: 3px solid white;
+    }
+  }
+  .header{
+    background-color: #1fb5f0;
+    text-align: center;
+    padding: 25px;
+    border-bottom: 3px solid white;
+  }
+  .addadvert{
+    font-size: 35px;
+    text-decoration: none;
+    background-color: #0e688c;
+    border-radius: 10px;
+    border: none;
     color: white;
     text-align: center;
-    padding: 14px 16px;
-    text-shadow: 3px 2px 4px black;
-    font-size: 50px;
+    padding: 10px 15px;
   }
