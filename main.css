@@ -3,13 +3,6 @@ body {
     background-color: black;
     font-family: Arial, Helvetica, sans-serif;
   }
-.body {
-    padding: 10px;
-    background-color: black;
-    border: 3px solid #1fb5f0;
-    border-radius: 10px;
-  }
-  
   ul {
     list-style-type: none;
     margin: 0;
@@ -46,6 +39,7 @@ body {
   li a:hover {
     background-color: rgba(31, 181, 240, 0.5);
     color: #1fb5f0;
+    
   }
   
   @media screen and (min-width: 500px) {
@@ -118,36 +112,4 @@ body {
   .addadvert:hover{
     background-color: #175b75;
     color: #1fb5f0;
-  }
-  .test1 {
-    background-color: black;
-    border: 3px solid #1fb5f0;
-    border-radius: 10px;
-    padding: 10px;
-    margin: 10px;
-  }
-  .Y78yr94bvY{
-  }
-  .Y78yr94bvY {
-    font-size: 30px;
-    padding: 20px;
-    margin: 0;
-  }
-  .test4 {
-    color: #1fb5f0;
-    margin: 0;
-  }
-  .test5 {
-    margin: 0;
-    font-family: Roboto Mono,Source Code Pro,Consolas,monospace;
-    font-size: 30px;
-    color: #175b75;
-    text-align: center;
-  }
-  .Nvy879403b {
-      background-color: black;
-      border: 3px solid #1fb5f0;
-      border-radius: 10px;
-      padding: 10px;
-      margin: 10px;
   }
